@@ -1,4 +1,4 @@
-# EPAM Data Software Engineering - Python Exercises
+# EPAM Campus Platform Data Software Engineering Course - Python Exercises
 
 This repository contains a collection of Python exercises and tasks completed as part of the EPAM Data Software Engineering course. Each folder in the repository represents a specific topic or concept, covering areas such as data types, functions, object-oriented programming, and more.
 
@@ -19,6 +19,7 @@ The exercises in this repository are designed to strengthen core Python skills i
 1. **Data Types**: Lists, tuples, strings, and dictionaries.
 2. **Functions and Decorators**: Function arguments, decorators, recursion.
 3. **Object-Oriented Programming**: Classes, magic methods, and final tasks.
+4. Final Practical Task: RSS Scrapper
 
 Each exercise includes a student template file to complete the tasks.
 
